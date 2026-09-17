@@ -14,25 +14,7 @@
     </header>
 
     <main>
-
-        <img src="IMG-1188.jpg" alt="Professional image of Hind Chejai">
+        <img src="IMG_1188.jpg" alt="Professional image of Hind Chejai">
 
         <dl>
             <dt>Student Number</dt>
-            <dd>041248645</dd>
-
-            <dt>Program Name</dt>
-            <dd>Interactive Media Design</dd>
-
-            <dt>Course</dt>
-            <dd>MTM6201 - Advanced Web Design with HTML and CSS</dd>
-
-            <dt>Interesting Fact</dt>
-            <dd>I enjoy learning new things and trying new creative ideas.</dd>
-        </dl>
-
-    </main>
-
-</body>
-
-</html>
