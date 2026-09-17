@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,13 +14,14 @@
     </header>
 
     <main>
-        <img src="IMG_1188.jpg" alt="Professional photo of Hind Chejai">
+
+        <img src="IMG-1188.jpg" alt="Professional image of Hind Chejai">
 
         <dl>
             <dt>Student Number</dt>
             <dd>041248645</dd>
 
-            <dt>Program</dt>
+            <dt>Program Name</dt>
             <dd>Interactive Media Design</dd>
 
             <dt>Course</dt>
@@ -28,7 +30,9 @@
             <dt>Interesting Fact</dt>
             <dd>I enjoy learning new things and trying new creative ideas.</dd>
         </dl>
+
     </main>
 
 </body>
+
 </html>
