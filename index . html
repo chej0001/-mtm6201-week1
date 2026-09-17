@@ -1,20 +1,33 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hind Chejai</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hind Chejai</title>
 </head>
-
 <body>
+  <header>
+    <h1>Hind Chejai</h1>
+  </header>
 
-    <header>
-        <h1>Hind Chejai</h1>
-    </header>
+  <main>
+    <img src="IMG_1188.jpg" alt="Professional image of Hind Chejai" width="300">
 
-    <main>
-        <img src="IMG_1188.jpg" alt="Professional image of Hind Chejai">
+    <h2>About Me</h2>
 
-        <dl>
-            <dt>Student Number</dt>
+    <dl>
+      <dt>Student Number</dt>
+      <dd>041248645</dd>
+
+      <dt>Program Name</dt>
+      <dd>Interactive Media Design</dd>
+
+      <dt>Course Code and Name</dt>
+      <dd>MTM6201 - Advanced Web Design with HTML and CSS</dd>
+
+      <dt>Interesting Fact About Me</dt>
+      <dd>I enjoy learning photography and graphic design.</dd>
+    </dl>
+  </main>
+</body>
+</html>
